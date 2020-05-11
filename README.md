@@ -1,7 +1,7 @@
 ## DMMWEBCAMP学習記録  
 ___
 ### 1. HTML・CSSを学ぼう(html_css)
- - 2章演習_chapter2_exercise
- - 3章演習_chapter3_exercise
- - 4章演習_chapter4_exercise
- -５章演習_chapter5_exercise
+- 2章演習 chapter2_exercise
+- 3章演習 chapter3_exercise
+- 4章演習 chapter4_exercise
+- 5章演習 chapter5_exercise
