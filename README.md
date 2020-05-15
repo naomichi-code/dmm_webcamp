@@ -6,3 +6,4 @@ ___
 - 4章演習 chapter4_exercise
 - 5章演習 chapter5_exercise
 - 6章演習 chapter6_exercise
+- 7章演習 chapter7_exercise
