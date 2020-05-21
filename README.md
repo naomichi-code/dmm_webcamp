@@ -20,4 +20,5 @@
 - 3章確認問題 lesson2.rb
 - 4章確認問題 lesson3.rb
 - 5章確認問題 lesson4.rb
-- 6章確認問題 lesson6.rb
+- 6章確認問題 lesson5.rb
+- 7章確認問題 lesson6.rb
