@@ -15,7 +15,7 @@
 
 ---
 
-### Rails を学ぼう(Ruby)
+### 2.Rails を学ぼう(Ruby)
 
 - 3章確認問題 lesson2.rb
 - 4章確認問題 lesson3.rb
