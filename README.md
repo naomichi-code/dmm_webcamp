@@ -24,3 +24,4 @@
 - 7章確認問題 lesson6.rb
 - 8章確認問題 lesson7-1.rb
 - 8章確認問題 lesson7-2.rb
+- 9章確認問題 fizz_buzz.rb
