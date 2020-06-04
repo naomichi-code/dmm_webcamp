@@ -15,7 +15,7 @@
 
 ---
 
-### 2.Rails を学ぼう(Ruby)
+### 2.Rubyを学ぼう(Ruby)
 
 - 3章確認問題 lesson2.rb
 - 4章確認問題 lesson3.rb
@@ -25,3 +25,8 @@
 - 8章確認問題 lesson7-1.rb
 - 8章確認問題 lesson7-2.rb
 - 9章確認問題 fizz_buzz.rb
+
+---
+
+### 3.Railsを学ぼう(Rails)
+- 1章〜11章 sample_app
